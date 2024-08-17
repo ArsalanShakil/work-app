@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html data-theme="light" lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="theme-color" content="#f7f8f9" />
+  <meta name="viewport"
+    content="viewport-fit=cover, user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
+  <meta name="mobile-web-app-capable" content="yes" />
+
+  <title>RP Hypertrophy</title>
+
+  <link rel="icon" type="image/x-icon" href="/favicon.png" />
+  <link rel="manifest" /> <!-- href is set once we know our user auth state to prevent caching of start_url value -->
+
+  <style>@font-face{font-display:swap;font-family:Poppins;font-style:normal;font-weight:200;src:url(/fonts/poppins-latin-200-normal.woff2) format("woff2"),url(/fonts/poppins-latin-200-normal.woff) format("woff")}@font-face{font-display:swap;font-family:Poppins;font-style:normal;font-weight:300;src:url(/fonts/poppins-latin-300-normal.woff2) format("woff2"),url(/fonts/poppins-latin-300-normal.woff) format("woff")}@font-face{font-display:swap;font-family:Poppins;font-style:normal;font-weight:400;src:url(/fonts/poppins-v20-latin-regular.woff2) format("woff2"),url(/fonts/poppins-v20-latin-regular.woff) format("woff")}@font-face{font-display:swap;font-family:Poppins;font-style:normal;font-weight:500;src:url(/fonts/poppins-v20-latin-500.woff2) format("woff2"),url(/fonts/poppins-v20-latin-500.woff) format("woff")}@font-face{font-display:swap;font-family:Poppins;font-style:normal;font-weight:600;src:url(/fonts/poppins-v20-latin-600.woff2) format("woff2"),url(/fonts/poppins-v20-latin-600.woff) format("woff")}@font-face{font-display:swap;font-family:Poppins;font-style:normal;font-weight:700;src:url(/fonts/poppins-v20-latin-700.woff2) format("woff2"),url(/fonts/poppins-v20-latin-700.woff) format("woff")}@font-face{font-display:swap;font-family:Source Code Pro;font-style:normal;font-weight:400;src:url(/fonts/source-code-pro-v22-latin-regular.woff2) format("woff2"),url(/fonts/source-code-pro-v22-latin-regular.woff) format("woff")}@font-face{font-display:swap;font-family:Source Code Pro;font-style:normal;font-weight:500;src:url(/fonts/source-code-pro-v22-latin-500.woff2) format("woff2"),url(/fonts/source-code-pro-v22-latin-500.woff) format("woff")}@font-face{font-display:swap;font-family:Source Code Pro;font-style:normal;font-weight:600;src:url(/fonts/source-code-pro-v22-latin-600.woff2) format("woff2"),url(/fonts/source-code-pro-v22-latin-600.woff) format("woff")}@font-face{font-display:swap;font-family:Source Code Pro;font-style:normal;font-weight:700;src:url(/fonts/source-code-pro-v22-latin-700.woff2) format("woff2"),url(/fonts/source-code-pro-v22-latin-700.woff) format("woff")}body,html{overflow:none;overscroll-behavior:none;touch-action:none}</style>
+  <script type="module" crossorigin src="/assets/index-8056e91e.js"></script>
+  <link rel="stylesheet" href="/assets/index-a4d790a5.css">
+</head>
+
+<body>
+  <div id="root"></div>
+  
+</body>
+
+</html>
